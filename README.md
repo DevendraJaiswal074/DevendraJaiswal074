@@ -15,7 +15,7 @@
 <p align="left">
     ▪️ <img src="https://media.tenor.com/akBy6qWGjs4AAAAj/peach-cat-mochi-peach-cat.gif" height="30px" width="30px" alt="cartoon"> I’m currently learning Full Stack Development
     <br>
-    ▪️ <img src="https://media.tenor.com/cpR9vGVN9p0AAAAj/emjoi.gif" height="30px" width="30px" alt="cartoon"> How to reach me devendrajaiswal0714@gmail.com
+    ▪️ <img src="https://media.tenor.com/cpR9vGVN9p0AAAAj/emjoi.gif" height="30px" width="30px" alt="cartoon"> How to reach me devendrajaiswal074@gmail.com
     <br>
     ▪️ <img src="https://media.tenor.com/CI7msUZXbooAAAAj/computer-pressing.gif" height="30px" width="30px" alt="cartoon"> Currently working on personal projects
     <br>
