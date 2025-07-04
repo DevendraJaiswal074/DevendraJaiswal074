@@ -38,7 +38,7 @@
     <a href="mailto:devendrajaiswal074@gmail.com" target="blank">
         <img align="center" src="https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="devjaiswal_27" height="28px" width="111px">
     </a>
-    <p align="center">I love connecting with different people so if you want to say Hi, I'll be happy to connect with you more! <img src="https://media1.tenor.com/m/2yZ8j2p1YEAAAAAC/hello-wave.gif" alt="hii" width="70px" height="70px"></p>
+    <p align="center">I love connecting with different people, so if you want to say Hi, I'll be happy to connect with you more! <img src="https://media1.tenor.com/m/2yZ8j2p1YEAAAAAC/hello-wave.gif" alt="hii" width="70px" height="70px"></p>
 </p>
 
 <br>
@@ -46,8 +46,8 @@
 <h2 align="left">Languages and Tools:</h2>
 <hr>
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo" />
+    <img width="4" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
